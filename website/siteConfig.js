@@ -40,7 +40,7 @@ const siteConfig = {
     'Copyright © ' +
     new Date().getFullYear() +
     ' Wix.com',
-  organizationName: 'wix', // or set an env variable ORGANIZATION_NAME
+  organizationName: 'DanielMSchmidt', // or set an env variable ORGANIZATION_NAME
   projectName: 'detox', // or set an env variable PROJECT_NAME
   highlight: {
     // Highlight.js theme to use for syntax highlighting in code blocks
